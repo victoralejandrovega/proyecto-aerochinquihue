@@ -2,7 +2,7 @@
 
 Sistema en Python para gestionar los vuelos, pasajes y encomiendas de **AeroChinquihue**, una empresa aeronáutica con sede en Puerto Montt que conecta comunidades apartadas de la región de Los Lagos desde el Aeródromo La Paloma.
 
-Proyecto del ramo **Programación Orientada a Objetos (2024-2)**, Universidad de Los Lagos.
+Proyecto del ramo **Programación Orientada a Objetos**, Universidad de Los Lagos.
 
 ## Integrantes
 
